@@ -1,16 +1,16 @@
 {
-"name": "pgslot8899",
-"theme": "pg slot 8899",
-"version": "5.10.1",
-"description": "pg slot 8899 ทางเข้าเว็บพนันเว็บตรง ระบบออโต้ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"pg slot 8899",
-"pg slot 8899 เครดิตฟรี",
-"pg slot 8899 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/pgslot8899",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "pgslot8899",
+  "theme": "pg slot 8899",
+  "version": "5.11.0",
+  "description": "pg slot 8899 ทางเข้าเว็บพนันเว็บตรง ระบบออโต้ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "pg slot 8899",
+    "pg slot 8899 เครดิตฟรี",
+    "pg slot 8899 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/pgslot8899",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
